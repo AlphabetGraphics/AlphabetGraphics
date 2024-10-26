@@ -1,0 +1,3 @@
+[submodule "abcg"]
+	path = abcg
+	url = https://github.com/AlphabetGraphics/abcg.git
